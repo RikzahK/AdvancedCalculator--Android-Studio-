@@ -8,3 +8,6 @@ The Apple-Themed Calculator is a visually appealing and user-friendly applicatio
 Apple Theme: Enjoy a visually refreshing interface inspired by apple aesthetics, creating a delightful user experience.
 Table Layout: Utilizes a table layout for optimal spacing and uniform button sizes, enhancing usability.
 Decimal Format Validation: Limits the number of digits shown in the decimal part of the output screen for better readability
+
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/5090c3f1-9a6b-4055-918f-466fa24a02e3">
+
